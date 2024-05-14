@@ -65,7 +65,136 @@
         },
         "codigo": "TODO agregar codigo cpp"
       },
-      "ultimaConsulta": "2022-11-10T22:22:37.743Z"
+      "ultimaConsulta": "2024-04-24T19:41:40.779Z"
+    },
+    {
+      "id": "5",
+      "propiedades": {
+        "nombre": "Salon",
+        "modelo": "ESP32",
+        "decripcion": "Salon de cevydeci ",
+        "fecha": "2024-04-24",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "19.75843259499687",
+          "longitud": "-98.59484012808305",
+          "descripcion": "A"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      },
+      "ultimaConsulta": "2024-04-24T21:38:58.504Z"
+    },
+    {
+      "id": "6",
+      "propiedades": {
+        "nombre": "casaisaac",
+        "modelo": "ESP32",
+        "decripcion": "a",
+        "fecha": "2024-05-11",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "19.706613791885832",
+          "longitud": "-98.45284995468376",
+          "descripcion": "a"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
+    },
+    {
+      "id": "7",
+      "propiedades": {
+        "nombre": "casa2",
+        "modelo": "ESP32",
+        "decripcion": "a",
+        "fecha": "2024-05-11",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "19.706613791885832",
+          "longitud": "-98.45284995468376",
+          "descripcion": "a"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
+    },
+    {
+      "id": "8",
+      "propiedades": {
+        "nombre": "lc51",
+        "modelo": "ESP32",
+        "decripcion": "a",
+        "fecha": "2024-05-13",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "20.0841",
+          "longitud": "-98.3657",
+          "descripcion": "a"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
+    },
+    {
+      "id": "9",
+      "propiedades": {
+        "nombre": "",
+        "modelo": "ESP32",
+        "decripcion": "lc52",
+        "fecha": "2024-05-13",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "20.0841",
+          "longitud": "-98.3657",
+          "descripcion": "a"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
+    },
+    {
+      "id": "10",
+      "propiedades": {
+        "nombre": "a1",
+        "modelo": "ESP32",
+        "decripcion": "d",
+        "fecha": "2024-05-13",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "19.729517986796047",
+          "longitud": "-98.46672069516052",
+          "descripcion": ""
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
+    },
+    {
+      "id": "11",
+      "propiedades": {
+        "nombre": "a2",
+        "modelo": "ESP32",
+        "decripcion": "a",
+        "fecha": "2024-05-13",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "19.729518153371583",
+          "longitud": "-98.4667211754617",
+          "descripcion": "a"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
+    },
+    {
+      "id": "12",
+      "propiedades": {
+        "nombre": "a3",
+        "modelo": "ESP32",
+        "decripcion": "a",
+        "fecha": "2024-05-13",
+        "estado": "0",
+        "ubicacion": {
+          "latitud": "19.7295288715528",
+          "longitud": "-98.46671685011732",
+          "descripcion": "a"
+        },
+        "codigo": "TODO agregar codigo cpp"
+      }
     }
   ],
   "rutas": [
@@ -77,9 +206,18 @@
         "fecha": "10/11/2022",
         "numeroPuntos": 3,
         "puntosLista": [
-          ["1", "IZQ"],
-          ["2", "IZQ"],
-          ["3", "DER"]
+          [
+            "1",
+            "IZQ"
+          ],
+          [
+            "2",
+            "IZQ"
+          ],
+          [
+            "3",
+            "DER"
+          ]
         ]
       }
     },
@@ -91,9 +229,220 @@
         "fecha": "10/11/2022",
         "numeroPuntos": 3,
         "puntosLista": [
-          ["1", "IZQ"],
-          ["2", "IZQ"],
-          ["4", "DER"]
+          [
+            "1",
+            "IZQ"
+          ],
+          [
+            "2",
+            "IZQ"
+          ],
+          [
+            "4",
+            "DER"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "propiedades": {
+        "nombre": "Test",
+        "descripcion": "A",
+        "fecha": "24/4/2024",
+        "numeroPuntos": 1,
+        "puntosLista": [
+          [
+            "5",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "propiedades": {
+        "nombre": "prueba",
+        "descripcion": "a",
+        "fecha": "24/4/2024",
+        "numeroPuntos": 1,
+        "puntosLista": [
+          [
+            "1",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "propiedades": {
+        "nombre": "aaa",
+        "descripcion": "casaisaac2",
+        "fecha": "11/5/2024",
+        "numeroPuntos": 2,
+        "puntosLista": [
+          [
+            "6",
+            "REC"
+          ],
+          [
+            "7",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "propiedades": {
+        "nombre": "",
+        "descripcion": "",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 2,
+        "puntosLista": [
+          [
+            "8",
+            "DER"
+          ],
+          [
+            "9",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "propiedades": {
+        "nombre": "rr",
+        "descripcion": "r",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 2,
+        "puntosLista": [
+          [
+            "10",
+            "DER"
+          ],
+          [
+            "11",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "propiedades": {
+        "nombre": "r2",
+        "descripcion": "r",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 2,
+        "puntosLista": [
+          [
+            "10",
+            "DER"
+          ],
+          [
+            "12",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "propiedades": {
+        "nombre": "r4",
+        "descripcion": "b",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 3,
+        "puntosLista": [
+          [
+            "10",
+            "IZQ"
+          ],
+          [
+            "11",
+            "IZQ"
+          ],
+          [
+            "12",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "propiedades": {
+        "nombre": "r5",
+        "descripcion": "a",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 3,
+        "puntosLista": [
+          [
+            "10",
+            "DER"
+          ],
+          [
+            "11",
+            "DER"
+          ],
+          [
+            "12",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "propiedades": {
+        "nombre": "ggg",
+        "descripcion": "",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 4,
+        "puntosLista": [
+          [
+            "10",
+            "IZQ"
+          ],
+          [
+            "10",
+            "IZQ"
+          ],
+          [
+            "11",
+            "REC"
+          ],
+          [
+            "12",
+            "FIN"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "propiedades": {
+        "nombre": "aaaaaaaaaaaaaaaaaaa",
+        "descripcion": "aaaaaaaaaaaaaaaaaaaaaa",
+        "fecha": "13/5/2024",
+        "numeroPuntos": 3,
+        "puntosLista": [
+          [
+            "10",
+            "REC"
+          ],
+          [
+            "11",
+            "REC"
+          ],
+          [
+            "12",
+            "FIN"
+          ]
         ]
       }
     }
